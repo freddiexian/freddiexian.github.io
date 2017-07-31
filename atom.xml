@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://freddiexian.github.io/2017/07/29/hello-world/"/>
-    <id>http://freddiexian.github.io/2017/07/29/hello-world/</id>
+    <link href="http://freddiexian.github.io/2017/hello-world/"/>
+    <id>http://freddiexian.github.io/2017/hello-world/</id>
     <published>2017-07-29T08:57:33.800Z</published>
     <updated>2017-07-29T08:57:33.756Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://freddiexian.github.io/2017/07/27/test/"/>
-    <id>http://freddiexian.github.io/2017/07/27/test/</id>
+    <link href="http://freddiexian.github.io/2017/test/"/>
+    <id>http://freddiexian.github.io/2017/test/</id>
     <published>2017-07-27T06:07:02.000Z</published>
     <updated>2017-07-29T08:57:41.716Z</updated>
     

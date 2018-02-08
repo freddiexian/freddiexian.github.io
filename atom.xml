@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://freddiexian.github.io/"/>
-  <updated>2018-02-08T05:59:06.083Z</updated>
+  <updated>2018-02-08T12:58:54.364Z</updated>
   <id>http://freddiexian.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
+    <title>的静态方法和静态变量（类方法和类变量）</title>
     <link href="http://freddiexian.github.io//test2/test.html"/>
     <id>http://freddiexian.github.io//test2/test.html</id>
     <published>2018-02-08T05:59:06.083Z</published>
-    <updated>2018-02-08T05:59:06.083Z</updated>
+    <updated>2018-02-08T12:58:54.364Z</updated>
     
     <summary type="html">
     

@@ -1,5 +1,5 @@
----
-title: test
+﻿---
+title: 的静态方法和静态变量（类方法和类变量）
 tags: test2
 categories: test2
 comments: false
